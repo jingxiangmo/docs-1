@@ -4,14 +4,14 @@ import { DocsThemeConfig } from "nextra-theme-docs";
 const config: DocsThemeConfig = {
   logo: <span>K-Scale Labs</span>,
   project: {
-    link: "https://github.com/shuding/nextra-docs-template",
+    link: "https://github.com/kscalelabs/docs",
   },
   chat: {
-    link: "https://discord.com",
+    link: "https://discord.gg/kscale",
   },
-  docsRepositoryBase: "https://github.com/shuding/nextra-docs-template",
+  docsRepositoryBase: "https://github.com/kscalelabs/docs",
   footer: {
-    text: "Nextra Docs Template",
+    text: "K-Scale Labs Documentation",
   },
 };
 
